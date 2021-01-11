@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "MinecraftSync", "MinecraftSync\MinecraftSync.fsproj", "{80F03AC7-636E-4E57-88ED-389C6EAB2C49}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "MinecraftSyncClient", "MinecraftSyncClient\MinecraftSyncClient.fsproj", "{2AB157C2-15CF-4BA2-93FC-9CFD07C9D2CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80F03AC7-636E-4E57-88ED-389C6EAB2C49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80F03AC7-636E-4E57-88ED-389C6EAB2C49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80F03AC7-636E-4E57-88ED-389C6EAB2C49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80F03AC7-636E-4E57-88ED-389C6EAB2C49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AB157C2-15CF-4BA2-93FC-9CFD07C9D2CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AB157C2-15CF-4BA2-93FC-9CFD07C9D2CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AB157C2-15CF-4BA2-93FC-9CFD07C9D2CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AB157C2-15CF-4BA2-93FC-9CFD07C9D2CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
